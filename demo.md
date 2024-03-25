@@ -54,6 +54,8 @@ section {
 
 - **Android Studio** 
 
+  ![bg right 100%](Bf2f.PNG)
+
 
 ---
 
@@ -66,6 +68,11 @@ section {
 }
 </style>
 # Merci pour votre attention !
+
+
+
+
+
 
 
 
