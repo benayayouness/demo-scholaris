@@ -54,10 +54,41 @@ section {
 
 - **Android Studio** 
 
-  ![bg right 100%](Bf2f.PNG)
+---
+![alt text](SCHOLARIS.png)
 
 
 ---
+Création d'un événement par un administrateur
+![bg left 85%](image-7.png)
+
+---
+
+Validation d'une commande par un validateur
+![bg left 85%](image-2.png)
+
+---
+Création d'un compte utilisateur
+![bg left 85%](image.png)
+
+---
+Consultation des événements à venir par un utilisateur
+![bg left 85%](image-3.png)
+
+---
+Modification d'un événement par un administrateur
+![bg left 85%](image-4.png)
+
+---
+Création d'un produit par un administrateur
+![bg left 85%](image-5.png)
+
+---
+Validation d'une commande par le créateur de l'événement
+![bg left 85%](image-6.png)
+
+---
+
 
 <!-- Vertical centering -->
 <style scoped>
