@@ -26,6 +26,7 @@ section {
 - Architecture
 - Diagrammes UML
 - Difficultés rencontrées
+- Demo
 
 
 ---
@@ -284,6 +285,17 @@ section {
 </style>
 # Difficultés rencontrées: Coté technique
 ![h:600 center](image-25.png)
+
+---
+
+<style scoped>
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+</style>
+# Demo
 
 ---
 
