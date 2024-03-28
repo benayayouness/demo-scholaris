@@ -74,17 +74,20 @@ img[alt~="center"] {
 
 ---
 
-# Organisation: Phase 1
+# Organisation: Rôles Principaux
+## Phase 1
 ![periode 1 center](image-13.png)
 
 ---
 
-# Organisation: Phase 2
+# Organisation: Rôles Principaux
+## Phase 2
 ![periode 2 center](image-14.png)
 
 ---
 
-# Organisation: Phase 3
+# Organisation: Rôles Principaux
+## Phase 3
 ![periode 3 center](image-15.png)
 
 ---
@@ -94,22 +97,22 @@ img[alt~="center"] {
 
 ---
 
-# Organisation
+# Organisation: Rôles secondaires
 ![alt text](image-17.png)
 
 ---
 
-# Organisation
+# Organisation: Rôles secondaires
 ![center](image-18.png)
 
 ---
 
-# Organisation
+# Organisation: Rôles secondaires
 ![alt text](image-19.png)
 
 ---
 
-# Organisation
+# Organisation: Rôles secondaires
 ![w:1000 h:600 center](image-20.png)
 
 ---
@@ -124,6 +127,11 @@ img[alt~="center"] {
 ![center](image-10.png)
 
 ---
+# Choix Techniques
+
+![center](image.png)
+
+---
 
 # Architecture
 
@@ -136,7 +144,7 @@ img[alt~="center"] {
 }
 </style>
 
-![h:500 center](image-11.png)
+![center](image-11.png)
 
 ---
 
