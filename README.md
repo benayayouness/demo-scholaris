@@ -130,7 +130,7 @@ img[alt~="center"] {
 ---
 # Choix Techniques
 
-![center](image.png)
+![center](image-26.png)
 
 ---
 
@@ -192,7 +192,7 @@ section {
 
 ---
 
-![w:1000 h:700 center](image-21.png)
+![w:1000 h:700 center](image-27.jpeg)
 
 ---
 <style scoped>
