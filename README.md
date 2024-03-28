@@ -128,26 +128,6 @@ img[alt~="center"] {
 ![center](image-10.png)
 
 ---
-# Choix Techniques
-
-![center](image-26.png)
-
----
-
-# Architecture
-
-
- 
-<style>
-img[alt~="center"] {
-  display: block;
-  margin: 0 auto;
-}
-</style>
-
-![center](image-11.png)
-
----
 
 # Architecture
 
