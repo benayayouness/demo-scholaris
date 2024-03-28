@@ -1,9 +1,9 @@
 ---
 marp: true
 theme: default
+paginate: true 
 ---
 
-<!-- Vertical centering -->
 <style scoped>
 section {
   display: flex;
@@ -12,55 +12,194 @@ section {
 }
 </style>
 
-# Projet "SCHOLARIS"
+# SCHOLARIS
+![bg 80%](logo_scholaris.png)
+
+
+---
+
+
+# Plan
+- Context
+- Organisation
+- Choix technique
+- Architecture
+- Diagrammes UML
+- Difficultés rencontrées
+
+
+---
+
+
+# Contexte
+## Besoin
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![center](logo-2.png)
+
+
 
 ---
 
 # Contexte
+## Solution
 
-- Modernisation de la gestion d'événements de collecte de fonds pour l'Association des Parents.
-- Besoin d'une application web/mobile intuitive pour simplifier la planification, l'exécution et le suivi des événements.
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![h:500 center](image-8.png)
 
 ---
 
 # Organisation
 
-- Réalisé par une équipe d'étudiants dans le cadre du projet de fin d'études.
-- Chaque membre de l'équipe a contribué avec ses compétences pour assurer le succès du projet.
-- Travaillé selon la méthodologie Agile pour une gestion flexible et itérative du développement.
+
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+![center](image-9.png)
 
 ---
 
+# Organisation: Phase 1
+![periode 1 center](image-13.png)
+
+---
+
+# Organisation: Phase 2
+![periode 2 center](image-14.png)
+
+---
+
+# Organisation: Phase 3
+![periode 3 center](image-15.png)
+
+---
+
+# Organisation: Rôles secondaires
+![role center](image-16.png)
+
+---
+
+# Organisation
+![alt text](image-17.png)
+
+---
+
+# Organisation
+![center](image-18.png)
+
+---
+
+# Organisation
+![alt text](image-19.png)
+
+---
+
+# Organisation
+![w:1000 h:600 center](image-20.png)
+
+---
 # Choix Techniques
 
-- **Java 17** 
-- **ReactJS** 
-- **PostgreSQL** 
-- **Kotlin**
-- **JWT** 
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+![center](image-10.png)
 
 ---
 
 # Architecture
 
-### Application Web
 
-- **Backend BFF** 
+ 
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
 
-- **Frontend** 
-
-
-### Application Mobile
-
-- **Android Studio** 
-
----
-![alt text](SCHOLARIS.png)
-
+![h:500 center](image-11.png)
 
 ---
+
+# Architecture
+
+
+ 
+<style>
+img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+![h:500 center](image-12.png)
+
+
+---
+
+<style scoped>
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: underline;
+}
+</style>
+
+# [Diagramme de classe][1]
+
+[1]:https://www.figma.com/file/tOuymsHwlkMpGUEJfim23b/SCHOLARIS?type=whiteboard&node-id=7-1264&t=IYXDcg8LtwhnwAgs-4
+
+
+---
+
+<style scoped>
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+</style>
+# Diagramme cas d'utilisation
+
+---
+
+![w:1000 h:700 center](image-21.png)
+
+---
+<style scoped>
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+</style>
+
+# Diagrammes de séquence
+
+---
+
 Création d'un événement par un administrateur
-![bg left 85%](image-7.png)
+![bg left 85%](image-1.png)
 
 ---
 
@@ -69,28 +208,78 @@ Validation d'une commande par un validateur
 
 ---
 Création d'un compte utilisateur
-![bg left 85%](image.png)
-
----
-Consultation des événements à venir par un utilisateur
 ![bg left 85%](image-3.png)
 
 ---
-Modification d'un événement par un administrateur
+Consultation des événements à venir par un utilisateur
 ![bg left 85%](image-4.png)
 
 ---
-Création d'un produit par un administrateur
+Modification d'un événement par un administrateur
 ![bg left 85%](image-5.png)
 
 ---
-Validation d'une commande par le créateur de l'événement
+Création d'un produit par un administrateur
 ![bg left 85%](image-6.png)
+
+---
+Validation d'une commande par le créateur de l'événement
+![bg left 85%](image-7.png)
+
+---
+
+<style scoped>
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+</style>
+# Difficultés rencontrées: Coté métier
+
+![h:600 center](image-22.png)
+
+---
+
+<style scoped>
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+</style>
+# Difficultés rencontrées: Coté métier
+
+![h:600 center](image-23.png)
+
+
+---
+
+<style scoped>
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+</style>
+# Difficultés rencontrées: Coté technique
+![h:600 center](image-24.png)
+
+---
+
+<style scoped>
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+</style>
+# Difficultés rencontrées: Coté technique
+![h:600 center](image-25.png)
 
 ---
 
 
-<!-- Vertical centering -->
 <style scoped>
 section {
   display: flex;
